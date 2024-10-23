@@ -9,6 +9,10 @@
   </p>
 </div>
 
+# Credit
+
+https://github.com/pytube/pytube/issues/1750
+
 ### Actively soliciting contributors!
 
 Have ideas for how pytube can be improved? Feel free to open an issue or a pull request!
