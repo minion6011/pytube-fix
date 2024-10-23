@@ -9,7 +9,7 @@
   </p>
 </div>
 
-# Credit
+#### Credit for some bug fix
 
 https://github.com/pytube/pytube/issues/1750
 
