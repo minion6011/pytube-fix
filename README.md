@@ -55,7 +55,7 @@ Pytube requires an installation of Python 3.6 or greater, as well as pip. (Pip i
 To install from PyPI with pip:
 
 ```bash
-$ python -m pip install git+https://github.com/minion6011/pytube-fix
+python -m pip install git+https://github.com/minion6011/pytube-fix
 ```
 
 ### Using pytube in a Python script
@@ -78,10 +78,10 @@ To download a video using the library in a script, you'll need to import the You
 
 Using the CLI is remarkably straightforward as well. To download a video at the highest progressive quality, you can use the following command:
 ```bash
-$ pytube https://youtube.com/watch?v=2lAe1cqCOXo
+pytube https://youtube.com/watch?v=2lAe1cqCOXo
 ```
 
 You can also do the same for a playlist:
 ```bash
-$ pytube https://www.youtube.com/playlist?list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n
+pytube https://www.youtube.com/playlist?list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n
 ```
